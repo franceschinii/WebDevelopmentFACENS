@@ -1,0 +1,12 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+tr, th {
+    outline: 1px solid black;
+    padding: 10px;
+}
+
+img {
+    width: 25ch;
+}
